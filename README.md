@@ -22,7 +22,7 @@ Kalkulator OOP PHP adalah sebuah aplikasi sederhana yang dibangun menggunakan pa
 2. **Alokasi file**
    - Anda perlu memindahkan file yang telah di download ke file htdocs.
 3. **Lokal Server**
-- Setelah memindahkan file anda langsung dapat menyalakan lokal server anda.
+   - Setelah memindahkan file anda langsung dapat menyalakan lokal server anda.
 
 **Review**
 - Jika anda penasaran bagaimana desain & Cara kerjanya, anda bisa mengunjungi link berikut [Kalkulator Php#oop](https://ebe78ad5-f7cf-4264-98f5-0b122c96e87e-00-tq85bimcn4jr.janeway.replit.dev/)
