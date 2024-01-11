@@ -2,7 +2,8 @@ var nilai = 0;
 var Opr = "";
 var display = document.getElementById('Output');
 function btn(nilai) {
-    display.value += nilai;
+    if(display.value==""&& nilai ==0);
+    else display.value += nilai;
 }
 
 function operator(Opr) {
